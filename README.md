@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Fernando Cuervo(Raven)</h1>
-<h3 align="center">Computer Systems Engineering | Ex-Software Engineer Intern @Mercedes-Benz Autobuses</h3>
+<h3 align="center">Computer Systems Engineering | DevOps Engineer Intern @Travelport</h3>
 https://iamraven.me/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcuervo21&label=Profile%20views&color=0e75b6&style=flat" alt="fcuervo21" /> </p>
